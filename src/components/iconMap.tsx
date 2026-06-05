@@ -1,0 +1,43 @@
+import {
+  CalendarHeart,
+  Check,
+  ChevronRight,
+  Clock,
+  Facebook,
+  Gift,
+  Heart,
+  Instagram,
+  Mail,
+  MapPin,
+  Menu,
+  Phone,
+  Play,
+  Sparkles,
+  Star,
+  Ticket,
+  Waves,
+  X,
+} from "lucide-react";
+
+export const icons = {
+  CalendarHeart,
+  Check,
+  ChevronRight,
+  Clock,
+  Facebook,
+  Gift,
+  Heart,
+  Instagram,
+  Mail,
+  MapPin,
+  Menu,
+  Phone,
+  Play,
+  Sparkles,
+  Star,
+  Ticket,
+  Waves,
+  X,
+};
+
+export type IconName = keyof typeof icons;
