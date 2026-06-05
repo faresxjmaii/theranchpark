@@ -1,5 +1,7 @@
 # The Ranch Park
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-168EF7.svg)](LICENSE)
+
 **A responsive website for a family recreation park in Ezzahra, Tunisia.**
 
 [Live website](https://theranchpark.tn) · [View source](https://github.com/faresxjmaii/theranchpark)
@@ -110,3 +112,9 @@ The project includes the responsive UI, component structure, animations, galleri
 
 - GitHub: [@faresxjmaii](https://github.com/faresxjmaii)
 - Live project: [theranchpark.tn](https://theranchpark.tn)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Source code is licensed under the MIT License. Brand assets, images, videos, and logos belong to their respective owners and are not included in the license.
