@@ -51,7 +51,7 @@ export const hero = {
   subtitle:
     "Le plaisir des enfants, le confort des parents",
   status: "Ouvert tous les jours",
-  hours: "17h - 23h / minuit le week-end",
+  hours: "17h - Minuit / 1h le week-end",
 };
 
 export const activities = [
@@ -151,8 +151,8 @@ export const prices = [
 ];
 
 export const openingHours = [
-  { day: "Lundi - Vendredi", time: "17h - 23h" },
-  { day: "Samedi - Dimanche", time: "17h - Minuit" },
+  { day: "Lundi - Jeudi", time: "17h - Minuit" },
+  { day: "Vendredi, Samedi, Dimanche", time: "17h - 1h" },
 ];
 
 export const openingStatusBadge = "Ouvert tous les jours";
