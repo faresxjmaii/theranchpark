@@ -50,8 +50,8 @@ export const hero = {
   imageAlt: "Aire de jeux colorée The Ranch Park au coucher du soleil",
   subtitle:
     "Le plaisir des enfants, le confort des parents",
-  status: "Ouvert tous les jours",
-  hours: "17h - Minuit / 1h le week-end",
+  status: "Vendredi • Samedi • Dimanche",
+  hours: "17h00 - Minuit",
 };
 
 export const activities = [
@@ -151,11 +151,11 @@ export const prices = [
 ];
 
 export const openingHours = [
-  { day: "Lundi - Jeudi", time: "17h - Minuit" },
-  { day: "Vendredi, Samedi, Dimanche", time: "17h - 1h" },
+  { day: "Vendredi, Samedi & Dimanche", time: "17h00 - Minuit" },
+  { day: "Lundi au Jeudi", time: "Fermé (sur réservation)" },
 ];
 
-export const openingStatusBadge = "Ouvert tous les jours";
+export const openingStatusBadge = "Ouvert Ven • Sam • Dim";
 
 export const birthdayOffers = [
   {
@@ -208,7 +208,6 @@ export const birthdayOffers = [
 
 export const birthdayNote =
   "À noter : la décoration à thème est à votre charge.";
-
 
 export const videos = [
   { 
